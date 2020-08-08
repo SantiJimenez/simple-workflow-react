@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import BuildingGif from "./media/animations/building.gif";
 
 import Animation from "./components/LottieAnimation";
 
