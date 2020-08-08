@@ -10,7 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>This is the v1.0.1!</p>
         <img src={BuildingGif} alt="building" />
-        <p>Work in progress!!</p>
+        <p>We are already!</p>
       </header>
     </div>
   );
